@@ -22,7 +22,7 @@ Login page:
 ![Screenshot (86)](https://github.com/Barath-090/React-IRC/assets/153704657/5cc62e60-3906-44d6-a298-a3f17115d8a5)
 Shopping cart:
 ![Screenshot (87)](https://github.com/Barath-090/React-IRC/assets/153704657/534be8b8-250a-4048-a0e2-907304ef7d79)
-Sidebar:
+Sidebar:<br/>
 ![Screenshot (89)](https://github.com/Barath-090/React-IRC/assets/153704657/73d38184-ad1b-40ee-b8e5-91952b4c63ae)
 Shopping form and final alert:
 ![Screenshot (88)](https://github.com/Barath-090/React-IRC/assets/153704657/23475e73-7787-42fc-9569-ba5c8138d01c)
